@@ -1,2 +1,2 @@
-# jenkin_pipelines
-contains jenkin pipelines
+# JenkinPipelines
+Contains jenkin pipelines
